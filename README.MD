@@ -28,9 +28,4 @@ This project uses the [TonSDK](https://github.com/continuation-team/TonSdk.NET).
 - [Unity Developer](https://t.me/f4vir0)
 - [Backend Developer and Designer](https://t.me/Akreeeal)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-
 
