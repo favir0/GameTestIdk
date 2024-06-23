@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0577a55488107604c875acbfe1261a24
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - audioScrObjDB: {fileID: 11400000, guid: 81435fa544c19f646a121cc3427b83a2, type: 2}
+  - audioSource: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

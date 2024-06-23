@@ -33,7 +33,7 @@ public class UIManager : MonoBehaviour
         DisableWalletInfoButton();
         EnableConnectWalletButton();
     }
-
+    
     private void OnProviderStatusChange(Wallet wallet)
     {
         if(tonConnectHandler.tonConnect.IsConnected)

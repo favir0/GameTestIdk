@@ -45,11 +45,113 @@
     <Analyzer Include="D:\Code\UnityProj\UnityEditors\2022.3.22f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Modern UI Pack\Scripts\Icon\IconLibraryEditor.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\Spawner.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Switch\SwitchManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Slider\SliderManager.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Context Menu\ContextMenuContentMobile.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Context Menu\ContextMenuContentEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Notification\NotificationManager.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\MyAudio\Core\LabSoundEffect.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerSwitch.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Demo\DemoElementSway.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Demo\LaunchURL.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\LabData.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Window\WindowDragger.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Context Menu\ContextMenuSubMenu.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Slider\RadialSliderEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Charts\PieChart.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Dropdown\CustomDropdown.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\NewUIObjectMover.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Context Menu\ContextMenuManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Toggle\CustomToggle.cs" />
     <Compile Include="Assets\TonConnect\Scripts\TonConnect\TonConnectHandler.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\ListView\ListViewRow.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Demo\DemoListShadow.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Slider\RangeMinSlider.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Dropdown\DropdownMultiSelect.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Progress Bar\ProgressBar.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManager.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerButtonEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Slider\SliderInput.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Context Menu\ContextMenuManager.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerProgressBarLoopEditor.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\DamageIndicator.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Tooltip\TooltipContent.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerHSelector.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Rendering\Ripple.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Layout Group\RadialLayoutGroup.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerSliderEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Layout Group\RadialLayoutGroupEditor.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\PersistentObject.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerProgressBar.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\ListView\ListViewEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Notification\NotificationManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerModalWindow.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Button\ButtonManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Demo\DemoElementSwayParent.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Icon\AnimatedIconHandler.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Horizontal Selector\HorizontalSelector.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Slider\SliderManagerEditor.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\MyAudio\UseTemplates\SoundPlayerUnit.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Modal Window\ModalWindowManager.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Demo\InputSystemChecker.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Dropdown\DropdownMultiSelectEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\ListView\ListView.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerPieChart.cs" />
     <Compile Include="Assets\MAJOR\Scripts\SceneChanger.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerInputField.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Editor Handlers\MUIPEditorHandler.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Window\WindowManagerButton.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Slider\RadialSlider.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerContextMenu.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Button\ButtonManager.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Switch\SwitchManager.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\GameController.cs" />
     <Compile Include="Assets\TonConnect\Scripts\Other\UIManager.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\JiggleEffect.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerToggle.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\UIObjectMover.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\MyAudio\Data\AudioScrObjDB.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerAnimatedIcon.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Input Field\CustomInputField.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Context Menu\ContextMenuContent.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerDropdownItem.cs" />
     <Compile Include="Assets\TonConnect\Scripts\QR Code\QRGenerator.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Modal Window\ModalWindowManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Icon\IconManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Icon\IconManager.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\PrefabController.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Tooltip\TooltipManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Layout Group\LayoutGroupFix.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Slider\RangeMaxSlider.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Rendering\UIGradientEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Progress Bar\PBFilled.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Rendering\UIGradient.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\MyAudio\Core\Singleton.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerScrollbar.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerWindowManager.cs" />
     <Compile Include="Assets\TonConnect\Scripts\QR Code\QRCoder.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Horizontal Selector\HorizontalSelectorEditor.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\GameStateInstance.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Notification\NotificationStacking.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\ListView\ListViewItem.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerSlider.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Charts\PieChartEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Window\WindowManager.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Progress Bar\ProgressBarEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Dropdown\CustomDropdownEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerDropdown.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Slider\RangeSlider.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerButton.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerProgressBarLoop.cs" />
+    <Compile Include="Assets\MAJOR\Scripts\MyAudio\Core\AudioCleanup.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Window\WindowManagerEditor.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerNotification.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Icon\IconLibrary.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\UI Manager\UIManagerTooltip.cs" />
+    <Compile Include="Assets\Modern UI Pack\Scripts\Tooltip\TooltipManager.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TonConnect\UI Toolkit\UXML\style.uss" />
@@ -61,6 +163,7 @@
     <None Include="Assets\Packages\NaCl.Net.0.1.13\lib\netstandard2.1\NaCl.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Packages\Portable.BouncyCastle.1.9.0\lib\netstandard2.0\BouncyCastle.Crypto.xml" />
+    <None Include="Assets\Modern UI Pack\Read Me.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
@@ -324,8 +427,17 @@
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
       <HintPath>C:\Users\favir0\Desktop\VajupaTON\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
     </Reference>
+    <Reference Include="JustCRC32C">
+      <HintPath>C:\Users\favir0\Desktop\VajupaTON\Assets\Packages\JustCRC32C.1.1.0\lib\netstandard2.0\JustCRC32C.dll</HintPath>
+    </Reference>
     <Reference Include="zxing">
       <HintPath>C:\Users\favir0\Desktop\VajupaTON\Assets\Packages\ZXing.Net.0.16.9\lib\netstandard2.1\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="TonSdk.Connect">
+      <HintPath>C:\Users\favir0\Desktop\VajupaTON\Assets\Packages\TonSdk.Connect.0.2.4\lib\netstandard2.1\TonSdk.Connect.dll</HintPath>
+    </Reference>
+    <Reference Include="NaCl">
+      <HintPath>C:\Users\favir0\Desktop\VajupaTON\Assets\Packages\NaCl.Net.0.1.13\lib\netstandard2.1\NaCl.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>C:\Users\favir0\Desktop\VajupaTON\Library\PackageCache\com.unity.visualscripting@1.9.2\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
@@ -333,17 +445,17 @@
     <Reference Include="Newtonsoft.Json">
       <HintPath>C:\Users\favir0\Desktop\VajupaTON\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
     </Reference>
-    <Reference Include="JustCRC32C">
-      <HintPath>C:\Users\favir0\Desktop\VajupaTON\Assets\Packages\JustCRC32C.1.1.0\lib\netstandard2.0\JustCRC32C.dll</HintPath>
-    </Reference>
-    <Reference Include="TonSdk.Connect">
-      <HintPath>C:\Users\favir0\Desktop\VajupaTON\Assets\Packages\TonSdk.Connect.0.2.4\lib\netstandard2.1\TonSdk.Connect.dll</HintPath>
-    </Reference>
     <Reference Include="TonSdk.Core">
       <HintPath>C:\Users\favir0\Desktop\VajupaTON\Assets\Packages\TonSdk.Core.0.3.2\lib\netstandard2.1\TonSdk.Core.dll</HintPath>
     </Reference>
-    <Reference Include="NaCl">
-      <HintPath>C:\Users\favir0\Desktop\VajupaTON\Assets\Packages\NaCl.Net.0.1.13\lib\netstandard2.1\NaCl.dll</HintPath>
+    <Reference Include="Unity.Android.Types">
+      <HintPath>D:\Code\UnityProj\UnityEditors\2022.3.22f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Android.Gradle">
+      <HintPath>D:\Code\UnityProj\UnityEditors\2022.3.22f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Gradle.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Android.GradleProject">
+      <HintPath>D:\Code\UnityProj\UnityEditors\2022.3.22f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.GradleProject.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:\Code\UnityProj\UnityEditors\2022.3.22f1\Editor\Data\NetStandard\ref\2.1.0\netstandard.dll</HintPath>
